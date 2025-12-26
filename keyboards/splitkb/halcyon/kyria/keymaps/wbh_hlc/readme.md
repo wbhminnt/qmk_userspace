@@ -32,7 +32,7 @@ Three different well-known keyboard layouts are provided to fill in the placehol
 For the rest of this write-up, the base layer will be assumed to be QWERTY and will be used as a reference to describe physical keys, e.g. “<kbd>B</kbd> key” vs, the much more verbose, “lower inner index key”.
 
 ```
-Base Layer: QWERTY
+Base Layer: QWERTY - Changed this to QWERTZ
 
 ,-------------------------------------------.                              ,-------------------------------------------.
 |  Tab   |   Q  |   W  |   E  |   R  |   T  |                              |   Y  |   U  |   I  |   O  |   P  |  Bksp  |
